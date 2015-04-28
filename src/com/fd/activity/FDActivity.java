@@ -3,7 +3,6 @@ package com.fd.activity;
 import android.app.Activity;
 import android.os.Bundle;
 /*
-sample android app
 */
 public class FDActivity extends Activity {
     /**
